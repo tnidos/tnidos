@@ -29,9 +29,6 @@
 * Développement logiciel
 * Jeux vidéo
 * Mécanique / motos
-* cp
-* piscine
-* antisémitisme
 
 ---
 

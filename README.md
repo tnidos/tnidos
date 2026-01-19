@@ -34,7 +34,7 @@
 
 ## 📫 Me contacter
 
-* GitHub : *vous êtes ici 😉*
+* GitHub : [*vous êtes ici 😉*](https://github.com/tnidos)
 * Parcoursup / cadre scolaire
 
 ---

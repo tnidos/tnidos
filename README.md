@@ -2,15 +2,45 @@
 
 <!--
 **tnidos/tnidos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+# 👋 Salut, moi c’est Théo Nidos
+
+## 👨‍💻 À propos de moi
+
+🎓 Étudiant en **BUT Informatique** à l’**IUT de Limoges**.
+
+💡 Passionné par l’**informatique**, le **développement logiciel** et le **numérique**, je réalise des projets personnels et universitaires pour approfondir mes compétences.
+
+🚀 Objectif : évoluer vers les métiers du **développement logiciel** et de l’**informatique**.
+
+---
+
+## 🛠️ Compétences
+
+* 💻 **Langages** : Python, HTML, CSS, JavaScript (bases)
+* 🧠 **Informatique** : algorithmique, structures de données, POO
+* 🖥️ **Interfaces** : Tkinter
+* 🔧 **Outils** : Git, GitHub, VS Code
+
+
+---
+
+## 🎯 Centres d’intérêt
+
+* Informatique & nouvelles technologies
+* Développement logiciel
+* Jeux vidéo
+* Mécanique / motos
+
+---
+
+## 📫 Me contacter
+
+* GitHub : *vous êtes ici 😉*
+* Parcoursup / cadre scolaire
+
+---
+
+⭐ N’hésitez pas à explorer mes dépôts et à suivre mon évolution !
+

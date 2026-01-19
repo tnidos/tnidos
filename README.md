@@ -18,10 +18,9 @@
 
 ## 🛠️ Compétences
 
-* 💻 **Langages** : Python, HTML, CSS, JavaScript (bases)
+* 💻 **Langages** : Python, HTML, CSS
 * 🧠 **Informatique** : algorithmique, structures de données, POO
-* 🖥️ **Interfaces** : Tkinter
-* 🔧 **Outils** : Git, GitHub, VS Code
+* 🔧 **Outils** :GitHub, VS Code
 
 
 ---
